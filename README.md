@@ -1,5 +1,5 @@
 # danGPT
-Python streamlit web app utilizing the openAI API to run on top of the GPT-3.5-Turbo language model. The app implements a user interface to interact with a chat bot set to Do Anything Now (DAN).
+Python streamlit web app utilizing the openAI API to run on top of the GPT-3.5-Turbo language model. The app implements a user interface to interact with a chat bot set to Do Anything Now (DAN) mode.
 
 ### Prompt Template: Copied from  https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
 dan_template = PromptTemplate(
